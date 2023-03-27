@@ -10,7 +10,7 @@ Now, don't stress over exams or not taking enough notes in class because almost 
 
 ## 👾 Contribution
 
-Feel free to contribute by doing a pull request of this project and adding our own notes into a folder named in this format `${your_github_username}_notes`
+Feel free to contribute by doing a pull request of this project and adding your own notes into a folder named in this format `${your_github_username}_notes`
 
 ### N.B
 Please note this repo is mainly made for ESTI students following a "Network and Information System" path !!
