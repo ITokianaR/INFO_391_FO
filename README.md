@@ -6,7 +6,7 @@ As we all know, this module can be hard to learn for us L2 RSI students as the p
 
 So, the idea behind this repo is to make easy the learning of this important network module by offering lots of learning materials, tips and subjects for the next generation of RSI students.
 
-Now, don't stress over exams or not taking enough text in class because almost all of the important parts are there ! Enjoy.
+Now, don't stress over exams or not taking enough notes in class because almost all of the important parts are there ! Enjoy.
 
 ## 👾 Contribution
 
