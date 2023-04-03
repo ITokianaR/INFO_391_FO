@@ -6,11 +6,11 @@ As we all know, this module can be hard to learn for us L2 RSI students as the p
 
 So, the idea behind this repo is to make easy the learning of this important network module by offering lots of learning materials, tips and subjects for the next generation of RSI students.
 
-Now, don't stress over exams or not taking enough text in class because almost all of the important parts are there ! Enjoy.
+Now, don't stress over exams or not taking enough notes in class because almost all of the important parts are there ! Enjoy.
 
 ## 👾 Contribution
 
-Feel free to contribute by doing a pull request of this project and adding our own notes into a folder named in this format `${your_github_username}_notes`
+Feel free to contribute by doing a pull request of this project and adding your own notes into a folder named in this format `${your_github_username}_notes`
 
 ### N.B
 Please note this repo is mainly made for ESTI students following a "Network and Information System" path !!
